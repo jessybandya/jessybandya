@@ -8,10 +8,6 @@
 <!-- Languages and Tools -->
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
-<div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="https://user-images.githubusercontent.com/78341798/194531121-47b0119a-ce00-439d-b586-125f86acb098.png"/> 
-</div>
-<br>   
 <!-- Icons Resources -->
 <!-- https://devicon.dev/ -->
 <!-- https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ -->
@@ -88,6 +84,54 @@
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
       <img  alt="Canva" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
   </a>
+
+
+    <a href="#" target="_blank" rel="noreferrer">
+    <img alt="HTML" height="50px" style="padding-right:10px;" src="HTML_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="CSS" height="50px" style="padding-right:10px;" src="CSS_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="SQL" height="50px" style="padding-right:10px;" src="SQL_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="React Native" height="50px" style="padding-right:10px;" src="REACT_NATIVE_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="PHP" height="50px" style="padding-right:10px;" src="PHP_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="Material UI" height="50px" style="padding-right:10px;" src="MATERIAL_UI_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="Semantic UI" height="50px" style="padding-right:10px;" src="SEMANTIC_UI_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="Framer Motion" height="50px" style="padding-right:10px;" src="FRAMER_MOTION_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="Next.js" height="50px" style="padding-right:10px;" src="NEXT_JS_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="Tailwind CSS" height="50px" style="padding-right:10px;" src="TAILWIND_CSS_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="React" height="50px" style="padding-right:10px;" src="REACT_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="Bootstrap" height="50px" style="padding-right:10px;" src="BOOTSTRAP_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="C++" height="50px" style="padding-right:10px;" src="CPP_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="C Language" height="50px" style="padding-right:10px;" src="C_LANGUAGE_ICON_URL" />
+</a>
+<a href="#" target="_blank" rel="noreferrer">
+    <img alt="React Redux Toolkit" height="50px" style="padding-right:10px;" src="REACT_REDUX_TOOLKIT_ICON_URL" />
+</a>
+
 </div>
 <br>
 <br>
