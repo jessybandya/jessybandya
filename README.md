@@ -1,15 +1,8 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Uwimana Jessy Bandya </h1>
-
-![github_cover_banner](https://user-images.githubusercontent.com/78341798/223527784-087b398b-23d0-491f-b287-4bfbd2588bca.gif)
-
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate, athletic, full stack software developer. My aim is to make people's lives better & easier by developing mobile apps and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life & doing challengeable really world projects. Aside from that, I am a civil & Construction Engineering student.
 <br>
 <br>
-<div align="center">
-
-[Email Me](mailto:jessy.bandya5@gmail.com)
-</div>
 </p>    
 <br>
 <!-- Languages and Tools -->
