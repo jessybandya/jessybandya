@@ -2,7 +2,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Uwimana Jessy Bandya </h1>
 
 -----------------------------------------------------------
-I am a passionate full stack software developer. My aim is to make people's lives better & easier by developing mobile apps and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life & doing challengeable really world projects. Aside from that, I am a Civil & Construction Engineering & ALX student.
+I am a passionate full stack software developer. My aim is to make people's lives better & easier by developing mobile apps and websites. I also love to teach coding as I believe that programming can empower people to achieve their full potential and live a better life & doing challengeable really world projects. Aside from that, I am a Civil & Construction Engineering Student & ALX Graduate.
 -------------------------------------------------------------
 
 
