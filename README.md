@@ -1,5 +1,5 @@
 
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Uwimana Jessy Bandya </h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Software Engineer Jessy Bandya </h1>
 
 -----------------------------------------------------------
 Full stack Web and Mobile Engineer.
