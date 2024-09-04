@@ -2,7 +2,7 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 Software Engineer Jessy Bandya </h1>
 
 -----------------------------------------------------------
-Full stack Web and Mobile Engineer.
+Full-Stack Web and Mobile Developer.
 -------------------------------------------------------------
 
 ### :octocat: My stats
